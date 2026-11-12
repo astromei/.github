@@ -8,7 +8,8 @@
 
 ## Open-source tools
 
-- **[Rokuyo calendar & MCP](https://github.com/astromei/rokuyo-mcp)** — offline 六曜 date lookup, monthly calendars and date search. See the repository for installation and MCP setup.
+- **[Astromei Core](https://github.com/astromei/astromei-core)** — independent TypeScript 六曜 calculation library: daily lookup, monthly calendars and date search.
+- **[Rokuyo MCP](https://github.com/astromei/rokuyo-mcp)** — offline MCP adapter powered by Astromei Core. See the repository for installation and setup.
 - **[六曜カレンダー](https://astromei.com/ja/rokuyo)** — use the Japanese calendar in your browser.
 
 Our tools keep calendar calculation separate from interpretation. Rokuyo descriptions explain cultural customs; they do not guarantee outcomes.
